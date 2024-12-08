@@ -1,6 +1,6 @@
 # Domain 6 - Terraform Cloud & Enterprise Capabilities
 
-The code mentioned in this document are used in the HashiCorp Certified Terraform Associate 2024 video course.
+The code mentioned in this document are used in the Terraform Authoring and Operations Pro with AWS 2025 video course.
 
 
 # Video-Document Mapper

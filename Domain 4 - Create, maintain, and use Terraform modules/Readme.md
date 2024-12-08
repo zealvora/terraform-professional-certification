@@ -1,6 +1,6 @@
 # Domain 4 - Create, maintain, and use Terraform modules
 
-The code mentioned in this document is used in the HashiCorp Certified Terraform Associate 2024 video course.
+The code mentioned in this document are used in the Terraform Authoring and Operations Pro with AWS 2025 video course.
 
 
 ### Video-Document Mapper
@@ -17,6 +17,11 @@ The code mentioned in this document is used in the HashiCorp Certified Terraform
 | 8 | [Module Outputs][PlDh] |
 | 9 | [Moved  Blocks - For Modules][PlDi] |
 | 10 |[Multiple Provider Configuration in Modules][PlDj] |
+| 11 |[Refactor Use-Case 1 - Renaming a Resource with Count][PlDk] |
+| 12 |[Refactor Use-Case 2 - Enabling Count for Existing Resources][PlDl] |
+| 13 |[Refactor Use-Case 3 - Enabling for_each for Existing Resources][PlDm] |
+| 14 |[Refactor Use-Case 4 - Enabling count for a Module Call][PlDn] |
+| 15 |[Refactor Use-Case 5 - Splitting One Module into Multiple][PlDo] |
 
 
    [PlDa]: <./ec2-module.md>
@@ -29,3 +34,8 @@ The code mentioned in this document is used in the HashiCorp Certified Terraform
    [PlDh]: <./module-outputs.md>
    [PlDi]: <./moved-module.md>
    [PlDj]: <./module-multi-provider.md>
+   [PlDk]: <./refactor-1.md>
+   [PlDl]: <./refactor-2.md>
+   [PlDm]: <./refactor-3.md>
+   [PlDn]: <./refactor-4.md>
+   [PlDo]: <./refactor-5.md>
