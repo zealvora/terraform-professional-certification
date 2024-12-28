@@ -17,7 +17,7 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
 
 
 
-   [PlDa]: <./shared-creds-config.mdmd>
+   [PlDa]: <./shared-creds-config.md>
    [PlDb]: <./named-profile.md>   
    [PlDc]: <./multi-provider.md>
    [PlDd]: <./default-tags.md>   
