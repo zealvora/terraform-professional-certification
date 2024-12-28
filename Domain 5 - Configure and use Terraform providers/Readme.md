@@ -7,10 +7,10 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
 
 | Sr No | Document Link |
 | ------ | ------ |
-| 1 | [AWS Provider - Shared Config and Credentials][PlDb] |
-| 2 | [AWS Provider - Setting Named Profiles][PlDc] |
-| 3 | [Multiple Provider Configuration][PlDd] |
-| 4 | [AWS Provider - Default Tags][PlDe] |
+| 1 | [AWS Provider - Shared Config and Credentials][PlDa] |
+| 2 | [AWS Provider - Setting Named Profiles][PlDb] |
+| 3 | [Multiple Provider Configuration][PlDc] |
+| 4 | [AWS Provider - Default Tags][PlDd] |
 | 5 | [AWS Provider - Assume Role Practical][PlDe] |
 | 6 | [Debugging Terraform - Practical][PlDf] |
 
