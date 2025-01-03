@@ -46,7 +46,7 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
 | 37 | [Exercise 1 - Create Resource Based on CSV Data][PlDk1] |
 | 38 | [Exercise 2 - Create Resource Based on CSV Data][PlDl1] |
 | 39 | [Exercise 3 - Create Resource Based on CSV Data][PlDm1] |
-| 40 | [Exercise 4 - Create Resource Based on CSV and JSON Data][PlDm1] |
+| 40 | [Exercise 4 - Create Resource Based on CSV and JSON Data][PlDn1] |
 
    [PlDa]: <./esq-seq.md>
    [PlDb]: <./heredoc-01.md>   
