@@ -43,9 +43,9 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
 | 34 | [Templates in Terraform][PlDh1] |
 | 35 | [Templates - Dealing with Lists and Maps][PlDi1] |
 | 36 | [Exercises - For Expression][PlDj1] |
-| 37 | [Exercise 1 - Create Resource Based on CSV Data][PlDj1] |
-| 38 | [Exercise 2 - Create Resource Based on CSV Data]][PlDj1] |
-| 39 | [Exercise 3 - Create Resource Based on CSV Data]][PlDj1] |
+| 37 | [Exercise 1 - Create Resource Based on CSV Data][PlDk1] |
+| 38 | [Exercise 2 - Create Resource Based on CSV Data][PlDl1] |
+| 39 | [Exercise 3 - Create Resource Based on CSV Data][PlDm1] |
 
 
    [PlDa]: <./esq-seq.md>
