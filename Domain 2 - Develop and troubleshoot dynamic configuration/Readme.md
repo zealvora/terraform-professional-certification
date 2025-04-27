@@ -17,36 +17,37 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
 | 8 | [Data Sources - Format][PlDh] |
 | 9 | [Use:Case - Fetching OS Image using Data Sources][PlDi] |
 | 10 | [Fetching OS Image using Data Sources - Practical][PlDj] |
-| 11 | [Input Variable Validation - Practical][PlDk] |
-| 12 | [More Examples - Input Variable Validation ][PlDl] |
-| 13 | [Sensitive Parameter][PlDm] |
-| 14 | [Terraform and Vault Integration][PlDn] |
-| 15 | [Resource Behavior and Meta Arguments][PlDo] |
-| 16 | [LifeCycle Meta-Argument - Create Before Destroy][PlDp] |
-| 17 | [LifeCycle Meta-Argument - Prevent Destroy][PlDq] |
-| 18 | [LifeCycle Meta-Argument - Ignore Changes][PlDr] |
-| 19 | [Revision - Data Type - List][PlDs] |
-| 20 | [Revision - Data Type - Map ][PlDt] |
-| 21 | [Data Type - Object][PlDu] |
-| 22 | [Nesting in Variable Types][PlDv] |
-| 23 | [Fetching Values From Variables with Nested Data Types][PlDw] |
-| 24 | [Challenges with Count][PlDx] |
-| 25 | [Data Type - SET ][PlDy] |
-| 26 | [for_each in Terraform][PlDz] |
-| 27 | [Conditional Expressions][PlDa1] |
-| 28 | [Basics of FOR  Expressions][PlDb1] |
-| 29 | [Basics of CSVDECODE Function][PlDc1] |
-| 30 | [FOR Expressions - Part 2][PlDd1] |
-| 31 | [Create Multiple Resources based on CSV Values][PlDe1] |
-| 32 | [Nested Loops - For Expression][PlDf1] |
-| 33 | [Terraform Functions - Flatten and Distinct][PlDg1] |
-| 34 | [Templates in Terraform][PlDh1] |
-| 35 | [Templates - Dealing with Lists and Maps][PlDi1] |
-| 36 | [Exercises - For Expression][PlDj1] |
-| 37 | [Exercise 1 - Create Resource Based on CSV Data][PlDk1] |
-| 38 | [Exercise 2 - Create Resource Based on CSV Data][PlDl1] |
-| 39 | [Exercise 3 - Create Resource Based on CSV Data][PlDm1] |
-| 40 | [Exercise 4 - Create Resource Based on CSV and JSON Data][PlDn1] |
+| 11 | [Overview of Input Variable Validation][PlDk] |
+| 12 | [Input Variable Validation - Practical][PlDl] |
+| 13 | [More Examples - Input Variable Validation ][PlDm] |
+| 14 | [Sensitive Parameter][PlDn] |
+| 15 | [Terraform and Vault Integration][PlDo] |
+| 16 | [Resource Behavior and Meta Arguments][PlDp] |
+| 17 | [LifeCycle Meta-Argument - Create Before Destroy][PlDq] |
+| 18 | [LifeCycle Meta-Argument - Prevent Destroy][PlDr] |
+| 19 | [LifeCycle Meta-Argument - Ignore Changes][PlDs] |
+| 20 | [Revision - Data Type - List][PlDt] |
+| 21 | [Revision - Data Type - Map ][PlDu] |
+| 22 | [Data Type - Object][PlDv] |
+| 23 | [Nesting in Variable Types][PlDw] |
+| 24 | [Fetching Values From Variables with Nested Data Types][PlDx] |
+| 25 | [Challenges with Count][PlDy] |
+| 26 | [Data Type - SET ][PlDz] |
+| 27 | [for_each in Terraform][PlDz1] |
+| 28 | [Conditional Expressions][PlDa1] |
+| 29 | [Basics of FOR  Expressions][PlDb1] |
+| 30 | [Basics of CSVDECODE Function][PlDc1] |
+| 31 | [FOR Expressions - Part 2][PlDd1] |
+| 32 | [Create Multiple Resources based on CSV Values][PlDe1] |
+| 33 | [Nested Loops - For Expression][PlDf1] |
+| 34 | [Terraform Functions - Flatten and Distinct][PlDg1] |
+| 35 | [Templates in Terraform][PlDh1] |
+| 36 | [Templates - Dealing with Lists and Maps][PlDi1] |
+| 37 | [Exercises - For Expression][PlDj1] |
+| 38 | [Exercise 1 - Create Resource Based on CSV Data][PlDk1] |
+| 39 | [Exercise 2 - Create Resource Based on CSV Data][PlDl1] |
+| 40 | [Exercise 3 - Create Resource Based on CSV Data][PlDm1] |
+| 41 | [Exercise 4 - Create Resource Based on CSV and JSON Data][PlDn1] |
 
    [PlDa]: <./esq-seq.md>
    [PlDb]: <./heredoc-01.md>   
@@ -72,9 +73,10 @@ The code mentioned in this document are used in the Terraform Authoring and Oper
    [PlDu]: <./map.md>
    [PlDv]: <./object.md>
    [PlDw]: <./nested-variable-type.md>
-   [PlDx]: <./challenge-count.md>
-   [PlDy]: <./set.md>
-   [PlDz]: <./for_each.md>
+   [PlDx]: <./fetch-values-nest.md>
+   [PlDy]: <./challenge-count.md>
+   [PlDz]: <./set.md>
+   [PlDz1]: <./for_each.md>
 
    [PlDa1]: <./conditional-expression.md>   
    [PlDb1]: <./for.md>   
